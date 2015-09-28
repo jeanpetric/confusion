@@ -1,0 +1,10 @@
+Package: confusion
+Type: Package
+Version: 0.1.0.9000
+Title: Calculate prediction performance measures from a confusion matrix
+Authors@R: person("Jean", "Petric", email = "j.petric@herts.ac.uk", role = c("aut", "cre"))
+Description: This function allows you to calculate prediction performance measures from a confusion matrix.
+URL: https://github.com/jeanpetric/confusion
+Depends: R (>= 3.0.2)
+License: MIT
+LazyData: yes
